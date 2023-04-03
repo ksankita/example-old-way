@@ -1,4 +1,8 @@
 Hello... this is first file created in this repo.
 add the contents here:
+<<<<<<< HEAD
    THIS IS PROD ENVIRONMENT
    
+=======
+   THIS IS TEST ENVIRONMENT
+>>>>>>> 74d9876... prod env update
